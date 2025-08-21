@@ -4,3 +4,7 @@ Aryan rai
 NIT
 # branch 
 CSE
+# place 
+Andhra Pradesh
+# Your home place 
+UP
